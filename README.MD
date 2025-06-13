@@ -1,8 +1,8 @@
 # Barva Theme
 
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/ovcharovcoder.barva-theme?color=blue)](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.solaria-theme)
-[![GitHub Stars](https://img.shields.io/github/stars/ovcharovcoder/barva-theme?color=yellow)](https://github.com/ovcharovcoder/solaria-theme)
-[![License](https://img.shields.io/github/license/ovcharovcoder/barva-theme?color=green)](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/LICENSE)
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/ovcharovcoder.barva-theme?color=blue)](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.barva-theme)
+[![GitHub Stars](https://img.shields.io/github/stars/ovcharovcoder/barva-theme?color=yellow)](https://github.com/ovcharovcoder/barva-theme)
+[![License](https://img.shields.io/github/license/ovcharovcoder/barva-theme?color=green)](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/LICENSE)
 
 ![Barva Theme Banner](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/barva-theme-banner.png)
 
