@@ -8,7 +8,7 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 
 Added
 - The dark theme has had its color scheme improved to make it more pleasing to the eyes.
-
+<br>
 
 
 **[1.0.0] - 2025-06-10**
