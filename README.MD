@@ -19,17 +19,17 @@
 
 ### Barva Light
 
-![Solaria Light Preview](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/light-theme.png)
+![Barva Light Preview](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/light-theme.png)
 
 ### Barva Dark
 
-![Solaria Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/dark-theme.png)
+![Barva Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/dark-theme.png)
 
 ## 🛠 Installation
 
 1. Open the **Extensions** sidebar in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`).
 2. Search for **Barva Theme** and click **Install**.
-3. Press `Ctrl+Shift+P` (or `Cmd+Shift+P`), type `Preferences: Color Theme`, and select **Solaria Light** or **Solaria Dark**.
+3. Press `Ctrl+Shift+P` (or `Cmd+Shift+P`), type `Preferences: Color Theme`, and select **Barva Light** or **Barva Dark**.
 4. Alternatively, download from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.barva-theme) or clone this repository and copy to your VS Code extensions folder.
 
 ## 📝 Changelog
