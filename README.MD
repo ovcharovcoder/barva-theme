@@ -4,7 +4,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/ovcharovcoder/barva-theme?color=yellow)](https://github.com/ovcharovcoder/solaria-theme)
 [![License](https://img.shields.io/github/license/ovcharovcoder/barva-theme?color=green)](https://raw.githubusercontent.com/ovcharovcoder/solaria-theme/main/LICENSE)
 
-![Solaria Theme Banner](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/barva-theme-banner.png)
+![Barva Theme Banner](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/barva-theme-banner.png)
 
 **Barva Theme** is a vibrant and professional Visual Studio Code theme inspired by Ukrainian vyshyvanka embroidery. It offers both light and dark variants, designed for comfortable coding during day and night. The theme features a balanced color palette with Ukrainian cultural motifs, ensuring readability and aesthetic harmony.
 
