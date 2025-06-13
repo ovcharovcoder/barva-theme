@@ -1,0 +1,51 @@
+{
+  "name": "barva-theme",
+  "displayName": "Barva Theme",
+  "description": "A vibrant and professional VS Code theme inspired by Ukrainian vyshyvanka embroidery, with balanced colors for comfortable day and night coding.",
+  "version": "1.0.0",
+  "publisher": "ovcharovcoder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ovcharovcoder/barva-theme.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "light",
+    "theme",
+    "vs code",
+    "vscode",
+    "pastel",
+    "minimal",
+    "professional",
+    "soft"
+  ],
+  "icon": "icon.png",
+  "files": [
+    "themes",
+    "icon.png",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Barva Light",
+        "uiTheme": "vs",
+        "path": "./themes/barva-light-color-theme.json"
+      },
+      {
+        "label": "Barva Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/barva-dark-color-theme.json"
+      }
+    ]
+  }
+}
