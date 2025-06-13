@@ -13,7 +13,7 @@
 - **Dual Themes**: Choose between **Barva Light** (bright and airy) and **Barva Dark** (deep and calming) to match your workflow.
 - **Optimized Syntax Highlighting**: Tailored for JavaScript, TypeScript, HTML, CSS/SCSS, PHP, Python, Java, C/C++, Ruby, JSX/TSX, and more.
 - **Semantic Highlighting**: Full support for modern language features, ensuring accurate coloring for variables, functions, and classes.
-- **Ukrainian Aesthetic:**: Colors inspired by traditional Ukrainian embroidery (#A61C3C red, #2A4B7C blue, #D4A017 yellow, #3A6F3A green).
+- **Ukrainian Aesthetic**: Colors inspired by traditional Ukrainian embroidery (#A61C3C red, #2A4B7C blue, #D4A017 yellow, #3A6F3A green).
 - **Accessibility**: Colors meet WCAG 2.1 contrast standards for readability and reduced eye strain.
 - **Subtle UI Design**: Clean and minimal UI elements for a distraction-free coding environment.
 
