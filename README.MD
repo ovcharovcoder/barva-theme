@@ -25,6 +25,9 @@
 
 ![Barva Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/dark-theme.png)
 
+## Icon
+<img src="images/icon.png" width="150px" alt="img">
+
 ## 🛠 Installation
 
 1. Open the **Extensions** sidebar in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`).
@@ -36,10 +39,15 @@
 
 See the [CHANGELOG.md](https://github.com/ovcharovcoder/barva-theme/blob/main/CHANGELOG.md) for details on updates and improvements.
 
-## Author
+## Development Date  
+- Developed: June 2025
 
-Created by [Andriy Ovcharov](https://github.com/ovcharovcoder)
-E-mail: ovcharovcoder@gmail.com
+
+## Author
+<img src="images/avatar.png" alt="Andriy Ovcharov" width="150px">
+
+- Andriy Ovcharov
+-  E-mail: ovcharovcoder@gmail.com
 
 ## License
 
