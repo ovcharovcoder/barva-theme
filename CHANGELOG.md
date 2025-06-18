@@ -4,6 +4,11 @@ All notable changes to the Barva Theme VS Code extension will be documented in t
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 <br>
 
+## [1.0.4] - 2025-06-18
+
+**Fixed**
+- Softer active line highlight: Changed editor.lineHighlightBackground to #3A6F9F1A (light blue with 5% opacity) for a less distracting and more harmonious appearance in the code editor.
+
 ## [1.0.3] - 2025-06-18
 
 **Added**
