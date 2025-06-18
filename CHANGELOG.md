@@ -4,6 +4,30 @@ All notable changes to the Barva Theme VS Code extension will be documented in t
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 <br>
 
+[1.0.3] - 2025-06-18
+
+**Added**
+- Added titleBar, badge, editorSuggestWidget, editorCodeLens, and editorHoverWidget colors for complete VS Code UI support.
+- Introduced contrastActiveBorder (#7A9AD4) for active element highlighting.
+- Added all terminal.ansi* and terminal.ansiBright* colors (e.g., ansiBrightCyan: #2AA198, ansiMagenta: #B16286) for enhanced terminal compatibility.
+- Added keyword.operator, string.template, and comment.block.documentation in tokenColors for better language support (e.g., JavaScript, Python).
+- Expanded semanticTokenColors with method, property, and namespace for improved semantic highlighting.
+- Included author and version fields in theme JSON for better documentation.
+
+**Fixed**
+- Corrected invalid keyword.operator structure in tokenColors (removed erroneous robot key).
+- Standardized gitDecoration.conflictingResourceForeground (#C586C0) for Git conflict visibility.
+- Enhanced editorLineNumber.foreground from #6B7280 to #7F8C8D for improved readability (~4.6:1 contrast ratio on #252A27 background).
+- Adjusted editorError.foreground (#E55B5B → #FF4D4D) and editorWarning.foreground (#FFD107 → #FFCA28) for softer, high-contrast visuals.
+- Increased opacity for editor.lineHighlightBackground (#7A9AD422 → #7A9AD455), editor.selectionBackground (#7A9AD455 → #7A9AD466), and scrollbarSlider for better visibility.
+- Changed list.focusBackground to #4A5653 to distinguish from list.activeSelectionBackground (#3A423F).
+- Improved terminalCursor.foreground to #E0E5E0 for higher contrast on #2D3532 terminal background.
+- Aligned accent colors: #7A9AD4 (dark) matches #3A6F9F (light).
+- Harmonized error colors: #FF4D4D (dark) matches #B71C1C (light).
+- Synced warning colors: #FFCA28 (dark) matches #A17646 (light).
+- Matched string colors: #7BC07B (dark) matches #5B8C5A (light).
+
+
 **[1.0.2] - 2025-06-14**
 
 Added
@@ -16,7 +40,7 @@ Added
   - Blue: #3A6F9F (light) / #7A9AD4 (dark).
   - Red: #C53030 (light) / #E55B5B (dark).
 
-Changed
+Fixed
 Enhanced readability:
 - Error/warning colors are now less aggressive (e.g., #A61C3C → #C53030).
 - Comments are lighter (#A3A9A6 with italics) for better contrast.
