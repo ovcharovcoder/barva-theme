@@ -50,7 +50,6 @@ Enhanced readability:
 
 **Added**
 - The dark theme has had its color scheme improved to make it more pleasing to the eyes.
-<br>
 
 
 ## [1.0.0] - 2025-06-10
