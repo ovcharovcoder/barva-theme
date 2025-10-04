@@ -138,7 +138,7 @@
       "scope": ["comment.block.documentation"],
       "settings": {
         "foreground": "#7F8C8D",
-        "fontStyle": "italic bold"
+        "fontStyle": "italic"
       }
     },
     {
