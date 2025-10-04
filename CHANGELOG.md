@@ -3,7 +3,13 @@
 All notable changes to the Barva Theme VS Code extension will be documented in this file.
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 <br>
-## [1.0.5] - 2025-10-04  
+
+## [1.0.6] - 2025-10-04  
+### Fixed 
+- **Reduced eye strain and improved text sharpness:**  
+  Adjusted base foreground color from #C7D0C7 to `#E0E5E0 (≈90% brightness) for light theme.  
+
+## [1.0.5] - 2025-10-01  
 ### Fixed  
 - **Improved documentation comment readability:**  
   Replaced `"italic bold"` styling for `comment.block.documentation` with standard `"italic"` to enhance clarity when rendering complex character sets (CJK: Chinese, Japanese, Korean).  
