@@ -7,7 +7,7 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 ## [1.0.6] - 2025-10-04  
 ### Fixed 
 - **Reduced eye strain and improved text sharpness:**  
-  Adjusted base foreground color from #C7D0C7 to `#E0E5E0 (≈90% brightness) for light theme.  
+  Adjusted base foreground color from #C7D0C7 to `#E0E5E0 for light theme.  
 
 ## [1.0.5] - 2025-10-01  
 ### Fixed  
