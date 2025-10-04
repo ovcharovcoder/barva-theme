@@ -2,7 +2,7 @@
   "name": "barva-theme",
   "displayName": "Barva Theme",
   "description": "A vibrant and professional VS Code theme inspired by Ukrainian vyshyvanka embroidery, with balanced colors for comfortable day and night coding.",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "publisher": "ovcharovcoder",
   "repository": {
     "type": "git",
