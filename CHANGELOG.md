@@ -10,7 +10,7 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
   This change prevents glyph blurring and improves stroke definition for multilingual codebases.
 
 - **Reduced eye strain and improved text sharpness:**  
-  Adjusted base foreground color from `#E0E5E0` to `#C7D0C7` (≈90% brightness).  
+  Adjusted base foreground color from `#E0E5E0` to `#C7D0C7` (≈90% brightness) for dark theme.  
   This provides a more comfortable visual contrast, reduces glare during extended sessions, and maintains hue consistency with the theme’s original palette.
 
 ## [1.0.4] - 2025-06-18
