@@ -13,12 +13,19 @@
 
 ## ✨ Features
 
-- 🎨 **Dual Variants:** Barva **Light** and **Dark**, finely tuned for daily and nightly use.  
-- 🧠 **Semantic Highlighting:** Distinct coloring for functions, classes, and variables.  
-- 🖥 **Wide Language Support:** JavaScript, TypeScript, PHP, HTML, CSS/SCSS, Python, and more.  
+- 🎨 **Multiple Variants:**
+  - **Barva Dark:** soft yet vibrant contrast for night coding.
+  - **Barva Light:** clean and bright for daytime work.
+  - **Barva Calm (Dark/Light):** soft, gentle backgrounds for calm focus.
+  - **Barva Cloud (Dark/Light):** airy, sky-inspired tones for relaxed reading.
+  - **Barva Dawn (Dark/Light):** warm, early-morning feel with subtle highlights.
+  - **Barva Mist (Dark/Light):** cool, misty palette for long coding sessions.
+
+- 🧠 **Semantic Highlighting:** Distinct coloring for functions, classes, and variables.
+- 🖥 **Wide Language Support:** JavaScript, TypeScript, PHP, HTML, CSS/SCSS, Python, and more.
 - 💙 **Ukrainian Aesthetic:** Inspired by vyshyvanka tones —  
-  `#A61C3C` red, `#2A4B7C` blue, `#D4A017` yellow, `#3A6F3A` green.  
-- 👁 **Accessible Design:** Meets WCAG 2.1 contrast standards.  
+  `#A61C3C` red, `#2A4B7C` blue, `#D4A017` yellow, `#3A6F3A` green.
+- 👁 **Accessible Design:** Meets WCAG 2.1 contrast standards.
 - 🌿 **Clean UI:** Minimal distractions, maximum focus.
 
 ---
@@ -40,7 +47,21 @@
 
 1. Open the **Extensions** sidebar in VS Code (`Ctrl+Shift+X` / `Cmd+Shift+X`).
 2. Search for **Barva Theme** and click **Install**.
-3. Run `Ctrl+Shift+P` → `Preferences: Color Theme` → select **Barva Light** or **Barva Dark**.  
+3. Run Ctrl+Shift+P → Preferences: Color Theme → select any of:
+
+**Light Themes**
+- Barva Light
+- Barva Calm Light
+- Barva Cloud Light
+- Barva Dawn Light
+- Barva Mist Light
+
+**Dark Themes**
+- Barva Dark
+- Barva Calm Dark
+- Barva Cloud Dark
+- Barva Dawn Dark
+- Barva Mist Dark
 4. Or install directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.barva-theme).
 
 ---
