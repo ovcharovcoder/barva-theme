@@ -4,6 +4,13 @@ All notable changes to the Barva Theme VS Code extension will be documented in t
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 <br>
 
+## [1.0.7] - 2025-10-05  
+### Added
+- **Video preview:** Added a YouTube video demonstrating how the Barva Theme looks in VS Code.  
+
+### Changed
+- **README improvements:** Rewritten and refined description for better clarity and presentation.    
+
 ## [1.0.6] - 2025-10-04  
 ### Fixed 
 - **Reduced eye strain and improved text sharpness:**  
