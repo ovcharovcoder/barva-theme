@@ -2,7 +2,7 @@
   "name": "barva-theme",
   "displayName": "Barva Theme",
   "description": "A vibrant and professional VS Code theme inspired by Ukrainian vyshyvanka embroidery, with balanced colors for comfortable day and night coding.",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "publisher": "ovcharovcoder",
   "repository": {
     "type": "git",
@@ -45,7 +45,47 @@
         "label": "Barva Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/barva-dark-color-theme.json"
-      }
+      },
+	  {
+       "label": "Barva Dawn Light",
+       "uiTheme": "vs",
+       "path": "./themes/barva-dawn-light-color-theme.json"
+      },
+	  {
+       "label": "Barva Dawn Dark",
+       "uiTheme": "vs-dark",
+       "path": "./themes/barva-dawn-dark-color-theme.json"
+      },
+	  {
+        "label": "Barva Mist Light",
+        "uiTheme": "vs",
+        "path": "./themes/barva-mist-light-color-theme.json"
+      },
+      {
+       "label": "Barva Mist Dark",
+       "uiTheme": "vs-dark",
+       "path": "./themes/barva-mist-dark-color-theme.json"
+      },
+	  {
+       "label": "Barva Calm Light",
+       "uiTheme": "vs",
+       "path": "./themes/barva-calm-light-color-theme.json"
+      },
+      {
+      "label": "Barva Calm Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/barva-calm-dark-color-theme.json"
+     },
+	 {
+      "label": "Barva Cloud Light",
+      "uiTheme": "vs",
+      "path": "./themes/barva-cloud-light-color-theme.json"
+     },
+     {
+      "label": "Barva Cloud Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/barva-cloud-dark-color-theme.json"
+     }
     ]
   }
 }
