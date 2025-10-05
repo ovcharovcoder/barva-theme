@@ -25,6 +25,11 @@
 
 ![Barva Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/dark-theme.png)
 
+## 🎨 Want to see the theme in action?
+I’ve prepared a short video overview showing how the theme looks inside a real editor.
+
+▶️ [Watch the review on YouTube](https://youtu.be/Trtltz5r7WY)
+
 ## Icon
 <img src="images/icon.png" width="150px" alt="img">
 
