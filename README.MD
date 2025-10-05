@@ -49,7 +49,7 @@ See the [CHANGELOG.md](https://github.com/ovcharovcoder/barva-theme/blob/main/CH
 
 
 ## Author
-<img src="images/avatar.png" alt="Andriy Ovcharov" width="150px">
+<img src="images/avatar.png" alt="Andriy Ovcharov" width="100px">
 
 - Andriy Ovcharov
 -  E-mail: ovcharovcoder@gmail.com
