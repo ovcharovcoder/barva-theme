@@ -4,7 +4,7 @@ All notable changes to the Barva Theme VS Code extension will be documented in t
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 <br>
 
-## [1.0.9] - 2025-10-06  
+## [1.0.9 - 1.1.0] - 2025-10-06  
 **Fixed**
 - Correction of the error displaying the author's avatar and other minor errors.
 
