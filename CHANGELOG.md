@@ -5,7 +5,7 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 <br>
 
 ## [1.0.9 - 1.1.0] - 2025-10-06  
-**Fixed**
+### Fixed
 - Correction of the error displaying the author's avatar and other minor errors.
 
 ## [1.0.8] - 2025-10-05  
