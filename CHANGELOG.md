@@ -4,6 +4,10 @@ All notable changes to the Barva Theme VS Code extension will be documented in t
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 <br>
 
+## [1.0.9] - 2025-10-06  
+**Fixed**
+- Correction of the error displaying the author's avatar and other minor errors.
+
 ## [1.0.8] - 2025-10-05  
 ### Added
 - New **Light Themes**: Barva Calm Light, Barva Cloud Light, Barva Dawn Light, Barva Mist Light  
