@@ -65,7 +65,7 @@
 4. Or install directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.barva-theme).
 
 For the best visual experience, use this theme together with Barva Theme Icons — they’re designed to complement each other perfectly.
-👉 Install from the [Marketplace] (https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.barva-theme-icons). 
+👉 Install from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.barva-theme-icons). 
 
 ---
 
