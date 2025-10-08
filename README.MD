@@ -64,13 +64,14 @@
 - Barva Mist Dark
 4. Or install directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.barva-theme).
 
+For the best visual experience, use this theme together with Barva Theme Icons — they’re designed to complement each other perfectly.
+👉 Install from the [Marketplace] (https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.barva-theme-icons). 
+
 ---
 
 ## 🧩 Contributing
 Found an issue or have an idea?  
 Open an issue or pull request on [GitHub](https://github.com/ovcharovcoder/barva-theme).
-
-I recommend using Barva Theme Icons for VS Code for this theme. You can install them at https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.barva-theme-icons. 
 
 ---
 
