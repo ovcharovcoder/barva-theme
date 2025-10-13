@@ -130,8 +130,12 @@
         "foreground": "#FFCA28"
       }
     },
-     {
-      "scope": ["comment", "punctuation.definition.comment", "comment.block.documentation"],
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "comment.block.documentation"
+      ],
       "settings": { "foreground": "#9CA3AF", "fontStyle": "" }
     },
     {
@@ -192,12 +196,8 @@
     "number": "#FFCA28",
     "keyword": "#7A9AD4",
     "comment": {
-    "foreground": "#7F8C8D",
-    "fontStyle": "italic"
-   }
- }
+      "foreground": "#7F8C8D",
+      "fontStyle": "italic"
+    }
+  }
 }
-
-
-
-
