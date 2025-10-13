@@ -130,13 +130,10 @@
         "foreground": "#FFCA28"
       }
     },
-   {
-  "scope": ["comment", "punctuation.definition.comment", "comment.block.documentation"],
-  "settings": {
-    "foreground": "#9CA3AF",
-    "fontStyle": ""
-  }
-},
+     {
+      "scope": ["comment", "punctuation.definition.comment", "comment.block.documentation"],
+      "settings": { "foreground": "#9CA3AF", "fontStyle": "" }
+    },
     {
       "scope": ["entity.name.function", "support.function"],
       "settings": {
@@ -200,6 +197,7 @@
    }
  }
 }
+
 
 
 
