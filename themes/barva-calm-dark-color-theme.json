@@ -141,7 +141,7 @@
       "scope": ["comment.block.documentation"],
       "settings": {
         "foreground": "#6B7280",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -207,4 +207,5 @@
    }
  }
 }
+
 
