@@ -117,8 +117,12 @@
       "scope": ["constant.numeric", "constant.language.boolean"],
       "settings": { "foreground": "#A17646" }
     },
-     {
-      "scope": ["comment", "punctuation.definition.comment", "comment.block.documentation"],
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "comment.block.documentation"
+      ],
       "settings": { "foreground": "#9CA3AF", "fontStyle": "" }
     },
     {
@@ -166,4 +170,3 @@
     "comment": { "foreground": "#8A908D", "fontStyle": "italic" }
   }
 }
-
