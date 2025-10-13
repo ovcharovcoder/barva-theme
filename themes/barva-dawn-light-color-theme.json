@@ -99,12 +99,12 @@
       "settings": { "foreground": "#A17646" }
     },
     {
-      "scope": ["comment", "punctuation.definition.comment"],
-      "settings": { "foreground": "#8A908D", "fontStyle": "italic" }
-    },
-    {
-      "scope": ["comment.block.documentation"],
-      "settings": { "foreground": "#7F8C8D", "fontStyle": "italic" }
+      "scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "comment.block.documentation"
+      ],
+      "settings": { "foreground": "#9CA3AF", "fontStyle": "" }
     },
     {
       "scope": ["entity.name.function", "support.function"],
