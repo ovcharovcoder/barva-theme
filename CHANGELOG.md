@@ -6,7 +6,7 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 
 ## [1.1.1] - 2025-10-13
 **Fixed**
-- Updated comment style: changed comment color and set font style to normal (removed italic).
+- Updated comment style: changed comment color and set font style to normal (removed italic) to prevent some laptops from displaying italic comments as bold.
 
 ## [1.0.9 - 1.1.0] - 2025-10-06  
 ### Fixed
