@@ -4,6 +4,10 @@ All notable changes to the Barva Theme VS Code extension will be documented in t
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 <br>
 
+## [1.1.2] - 2025-10-27
+**Fixed**
+- Removed italic from template strings.
+
 ## [1.1.1] - 2025-10-13
 **Fixed**
 - Updated comment style: changed comment color and set font style to normal (removed italic) to prevent some laptops from displaying italic comments as bold.
