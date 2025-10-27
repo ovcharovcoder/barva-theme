@@ -6,7 +6,7 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 
 ## [1.1.2] - 2025-10-27
 **Fixed**
-- Removed italic from template strings.
+- Removed italic bold from template strings.
 
 ## [1.1.1] - 2025-10-13
 **Fixed**
